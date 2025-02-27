@@ -10,6 +10,11 @@ In V0, I just start working on some of the small functions. But I will start wit
 In V0.0 I start with a small terminal based version of windows 12. So you can open and close documents, and maybe do a few extra things.
 <br><br>
 V0.0.1 will be a small start of the version where you can open a file editor, called notepad.
+<br>
+V0.0.2 is a version where the notepad works a bit better!
+
+### V0.1
+In this version I will add a falling matrix effect.
 
 
 # Changelog
