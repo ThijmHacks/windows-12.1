@@ -9,7 +9,7 @@ def notepad():
             print(f"Now writing to {filename}. Type 'exit' to stop.")
             with open(filename, 'a') as file:
                 while True:
-                    line = input("Enter text to add to file (Press Enter for a new line or 'exit' to stop): ")
+                    line = input(">>>  ")
                     if line.lower() == 'exit':
                         break
                     file.write(line + '\n')
