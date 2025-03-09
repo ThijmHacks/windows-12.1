@@ -15,7 +15,11 @@ V0.0.2 is a version where the notepad works a bit better!
 
 ### V0.1
 In this version I will add a falling matrix effect.
-
+<br>
+V0.1.0, the first try of it.
 
 # Changelog
 V0.0.1: Started working on the project.
+V0.0.2: Working notepad + info.
+V0.1.0: Matrix effect.
+V0.1.1: Adding things to matric effect.

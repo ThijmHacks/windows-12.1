@@ -15,4 +15,7 @@ while True:
     elif terminal_option == "info":
         print("Welcome in the Windows 12 Terminal")
     elif terminal_option == "matrix":
-        im_matrix.main()
+        try:
+            im_matrix.main()
+        except KeyboardInterrupt:
+            print("\nMatrix effect stopped. Goodbye!")  # Graceful exit message
